@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+c:\users\asus\desktop\курсач\consoleapplication1\consoleapplication1\token.h(61): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\asus\desktop\курсач\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdkddkver.h(215): note: см. предыдущее определение "_WIN32_WINNT"
+c:\users\asus\desktop\курсач\consoleapplication1\consoleapplication1\consoleapplication1.cpp(76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\asus\desktop\курсач\consoleapplication1\consoleapplication1\consoleapplication1.cpp(83): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\asus\desktop\курсач\consoleapplication1\consoleapplication1\consoleapplication1.cpp(86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\asus\desktop\курсач\consoleapplication1\consoleapplication1\consoleapplication1.cpp(88): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Asus\Desktop\Курсач\ConsoleApplication1\Debug\ConsoleApplication1.exe
